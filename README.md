@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chouba23N
+- 👋 Hi, I’m @Chouba
 - 👀 I’m interested in cyber Security.
 - 🌱 I’m currently learning cyber security (net working)
 - 💞️ I’m looking to collaborate on nothing right now.
